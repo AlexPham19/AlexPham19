@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlexPham19&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&fire=EF6030&ring=EF6030&dates=EF6030&sideLabels=F7DE32&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&background=ffffff" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlexPham19&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
   
