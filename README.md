@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexPham19&theme=dark&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexPham19&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" />
   </a>
 </div>
   
