@@ -7,15 +7,15 @@
 - 😄 Pronouns: He/Him
 - 🤗 Hobbies: Playing chess ♟, going to gym 💪 and watching/playing soccer ⚽!
 
-## 🔥 Github Streak
+## 🔥 Streak
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlexPham19&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&fire=EF6030&ring=EF6030&dates=EF6030&sideLabels=F7DE32&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&background=09131B" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlexPham19&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&fire=EF6030&ring=EF6030&dates=EF6030&sideLabels=F7DE32&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&background=03fcf8" />
   </a>
 </div>
   
-## 📈 Github Stats
+## 📈 Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
@@ -23,7 +23,7 @@
   </a>
 </div>
   
-## 📊 Github Most Used Languages
+## 📊 Most Used Languages
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
