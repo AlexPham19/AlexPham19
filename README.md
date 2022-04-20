@@ -20,8 +20,6 @@
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" title="IntelliJ"/>&nbsp;
 
----------------------
-
 ## 🔥 Streak 🔥
 
 <div align="center">
