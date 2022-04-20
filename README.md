@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - 🤗 Hobbies: Playing chess ♟, going to gym 💪 and watching/playing soccer ⚽!
 
-## 🔥 Streak
+## 🔥 Streak 🔥
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
@@ -15,7 +15,7 @@
   </a>
 </div>
   
-## 📈 Stats
+## 📈 Stats 📈
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
@@ -23,7 +23,7 @@
   </a>
 </div>
   
-## 📊 Most Used Languages
+## 📊 Most Used Languages 📊
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
