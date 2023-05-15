@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently exploring Android, as well as Cross-Platform App development
-- 💻 Preferred Dev Environment: IntelliJ, Android Studio or Visual Studio Code
+- 🔭 I’m currently exploring Back-End Web Development, but also interested in Cross-Platform App development
+- 💻 Preferred Dev Environment: Visual Studio, VS Code, IntelliJ, or Android Studio
 - 🌱 I’m currently learning Data structures & Algorithm as well as discrete math
 - 👯 I’m looking to collaborate on the tech field, anywhere in the US!
 - 📫 How to reach me: phamqh@mail.uc.edu, or in LinkedIn: www.linkedin.com/in/alexpham19
